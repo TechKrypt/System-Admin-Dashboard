@@ -1,4 +1,4 @@
-# 🛠️ Bash System Administration Dashboard
+# Bash System Administration Dashboard
 
 A comprehensive, menu-driven Bash script that serves as an all-in-one **system administration tool**. Designed to simplify common sysadmin tasks from a single interface.
 
